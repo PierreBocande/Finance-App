@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Papa-Zella\\Anaconda2\\envs\\Python3.7\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.extraPaths": [
+        "${env:SPARK_HOME}\\python",
+        "${env:SPARK_HOME}\\python\\pyspark"
+    ]
+}
